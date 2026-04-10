@@ -1,0 +1,212 @@
+[
+  {
+    "tema": "Ley 39/2015 (Art. 2)",
+    "q": "Señale la respuesta INCORRECTA. Según el artículo 2 de la Ley 39/2015, el sector público institucional se integra por:",
+    "options": ["Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas", "Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas, cuando ejerzan potestades administrativas", "Las Universidades públicas, que se regirán por su normativa específica y supletoriamente por las previsiones de esta Ley", "Las Corporaciones de Derecho Público"],
+    "correct": 3,
+    "exp": "Las Corporaciones de Derecho Público se rigen por su normativa específica y supletoriamente por la Ley, pero el artículo 2.2 no las incluye en la lista del sector público institucional [1, 2]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 30)",
+    "q": "De conformidad con el artículo 30.2 de la Ley 39/2015, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo:",
+    "options": ["Los domingos y los declarados festivos", "Los sábados y domingos", "Los sábados, los domingos y los declarados festivos", "Los domingos, los declarados festivos y los días de vacaciones del funcionario"],
+    "correct": 2,
+    "exp": "Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, se excluyen sábados, domingos y festivos [3]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 14)",
+    "q": "Según el artículo 14.2 de la Ley 39/2015, ¿cuál de los siguientes sujetos está obligado a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
+    "options": ["Las personas jurídicas", "Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria", "Los empleados de las Administraciones Públicas por razón de su condición de empleado público", "Todas las respuestas anteriores son correctas"],
+    "correct": 3,
+    "exp": "El artículo 14.2 establece que las personas jurídicas, profesionales colegiados y empleados públicos (entre otros) están obligados a relacionarse electrónicamente [4, 5]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 40)",
+    "q": "Según el artículo 40.2 de la Ley 39/2015, toda notificación deberá ser cursada desde la fecha en que el acto haya sido dictado dentro del plazo de:",
+    "options": ["Cinco días", "Diez días", "Quince días", "Un mes"],
+    "correct": 1,
+    "exp": "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado [6]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 24)",
+    "q": "En los procedimientos iniciados a solicitud del interesado, según el artículo 24.1, la regla general del vencimiento del plazo máximo sin notificación de resolución expresa es:",
+    "options": ["El silencio administrativo positivo (estimación)", "El silencio administrativo negativo (desestimación)", "La caducidad del procedimiento", "La suspensión automática de los plazos"],
+    "correct": 0,
+    "exp": "El vencimiento del plazo legitima al interesado para entender la solicitud estimada por silencio administrativo, salvo excepciones por norma con rango de ley o Derecho de la UE [7]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 47)",
+    "q": "Según el artículo 47.1 de la Ley 39/2015, son nulos de pleno derecho los actos de las Administraciones Públicas que:",
+    "options": ["Incurran en cualquier infracción del ordenamiento jurídico", "Lesionen los derechos y libertades susceptibles de amparo constitucional", "Sean dictados fuera del plazo establecido", "Tengan un defecto de forma que no cause indefensión"],
+    "correct": 1,
+    "exp": "Los actos que lesionen derechos y libertades susceptibles de amparo constitucional son nulos de pleno derecho [8]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 123)",
+    "q": "El recurso potestativo de reposición podrá interponerse:",
+    "options": ["Ante el órgano superior jerárquico del que dictó el acto", "Ante el mismo órgano que hubiera dictado el acto", "Directamente ante el Tribunal Supremo", "Ante el Defensor del Pueblo"],
+    "correct": 1,
+    "exp": "Los actos que pongan fin a la vía administrativa podrán ser recurridos ante el mismo órgano que los hubiera dictado [9]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 5)",
+    "q": "Para interponer recursos o desistir de acciones en nombre de otra persona, según el artículo 5.3 de la Ley 39/2015:",
+    "options": ["Se presume siempre la representación", "Deberá acreditarse la representación", "Solo puede hacerlo un abogado colegiado", "Basta con una comunicación verbal a la Administración"],
+    "correct": 1,
+    "exp": "Para formular solicitudes, interponer recursos, desistir de acciones y renunciar a derechos, deberá acreditarse la representación [10]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 30)",
+    "q": "Si el plazo de un procedimiento administrativo se fija en meses, según el artículo 30.4, este se computará:",
+    "options": ["A partir del mismo día de la notificación", "A partir del día siguiente a la notificación", "De fecha a fecha, empezando el primer día hábil", "Excluyendo siempre los sábados del cómputo"],
+    "correct": 1,
+    "exp": "Los plazos expresados en meses o años se computarán a partir del día siguiente a aquel en que tenga lugar la notificación [11]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 121)",
+    "q": "Las resoluciones que no pongan fin a la vía administrativa podrán ser recurridas en alzada ante:",
+    "options": ["El mismo órgano que las dictó", "El órgano superior jerárquico del que las dictó", "El Consejo de Ministros en todo caso", "La jurisdicción contencioso-administrativa exclusivamente"],
+    "correct": 1,
+    "exp": "El recurso de alzada se interpone ante el órgano superior jerárquico del que dictó el acto [12]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 21)",
+    "q": "Cuando las normas reguladoras de los procedimientos no fijen un plazo máximo para resolver, este será de:",
+    "options": ["Diez días", "Un mes", "Tres meses", "Seis meses"],
+    "correct": 2,
+    "exp": "Cuando las normas reguladoras no fijen el plazo máximo, éste será de tres meses [13]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 13)",
+    "q": "Es un derecho de las personas en sus relaciones con las Administraciones Públicas (Art. 13):",
+    "options": ["A no ser tratados con respeto por los empleados públicos", "A comunicarse a través de un Punto de Acceso General electrónico", "A utilizar únicamente el castellano en todo el territorio nacional", "A no ser asistidos en el uso de medios electrónicos"],
+    "correct": 1,
+    "exp": "El artículo 13.a establece el derecho a comunicarse a través de un Punto de Acceso General electrónico [14]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 68)",
+    "q": "Si una solicitud no reúne los requisitos necesarios, se requerirá al interesado para que la subsane en el plazo de:",
+    "options": ["Cinco días", "Diez días", "Quince días", "Veinte días"],
+    "correct": 1,
+    "exp": "Se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos [15]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 43)",
+    "q": "Las notificaciones por medios electrónicos se entenderán rechazadas, según el artículo 43.2, si no se accede al contenido en el plazo de:",
+    "options": ["Cinco días naturales", "Diez días naturales", "Diez días hábiles", "Quince días naturales"],
+    "correct": 1,
+    "exp": "Se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición sin que se acceda a su contenido [16]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 11)",
+    "q": "Las Administraciones Públicas solo requerirán el uso obligatorio de firma para:",
+    "options": ["Cualquier consulta de información", "Acceder a la sede electrónica", "Desistir de acciones o renunciar a derechos", "Realizar actos de mero trámite"],
+    "correct": 2,
+    "exp": "La firma es obligatoria para formular solicitudes, declaraciones responsables, recursos, desistir de acciones y renunciar a derechos [17]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 33)",
+    "q": "En la tramitación de urgencia, los plazos establecidos para el procedimiento ordinario se reducen:",
+    "options": ["A un tercio", "A la mitad", "En cinco días", "Solo si el interesado lo solicita por escrito"],
+    "correct": 1,
+    "exp": "La tramitación de urgencia reduce a la mitad los plazos establecidos, salvo los de presentación de solicitudes y recursos [18]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 48)",
+    "q": "El defecto de forma solo determinará la anulabilidad de un acto cuando:",
+    "options": ["Siempre, cualquier defecto formal anula el acto", "Carezca de requisitos indispensables para alcanzar su fin o cause indefensión", "No se use el papel oficial de la Administración", "Lo decida el instructor de forma discrecional"],
+    "correct": 1,
+    "exp": "El defecto de forma solo determina anulabilidad si carece de requisitos indispensables o causa indefensión [19]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 122)",
+    "q": "El plazo para interponer el recurso de alzada si el acto fuera expreso es de:",
+    "options": ["Diez días", "Quince días", "Un mes", "Tres meses"],
+    "correct": 2,
+    "exp": "El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso [20]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 124)",
+    "q": "El plazo máximo para dictar y notificar la resolución del recurso potestativo de reposición es de:",
+    "options": ["Diez días", "Quince días", "Un mes", "Tres meses"],
+    "correct": 2,
+    "exp": "El plazo máximo para dictar y notificar la resolución del recurso será de un mes [21]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 125)",
+    "q": "El recurso extraordinario de revisión se interpondrá cuando se incurra en error de hecho que resulte de los propios documentos del expediente en el plazo de:",
+    "options": ["Un mes", "Tres meses", "Un año", "Cuatro años"],
+    "correct": 3,
+    "exp": "En el caso de error de hecho (causa a), el plazo es de cuatro años siguientes a la notificación de la resolución [22]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 30)",
+    "q": "Cuando el último día de un plazo administrativo sea inhábil, este se entenderá prorrogado al:",
+    "options": ["Día anterior hábil", "Primer día hábil siguiente", "Mismo día de la semana siguiente", "Se pierde el derecho al trámite"],
+    "correct": 1,
+    "exp": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente [23]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 4)",
+    "q": "Se consideran interesados en el procedimiento administrativo (Art. 4):",
+    "options": ["Quienes lo promuevan como titulares de derechos", "Quienes tengan derechos que puedan resultar afectados por la decisión", "Aquellos cuyos intereses legítimos puedan resultar afectados y se personan", "Todas las respuestas son correctas"],
+    "correct": 3,
+    "exp": "El artículo 4 define estas tres categorías como interesados en el procedimiento [24, 25]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 35)",
+    "q": "Señale cuál de los siguientes actos NO requiere ser motivado según el artículo 35:",
+    "options": ["Los actos que limiten derechos subjetivos", "Los actos que resuelvan recursos administrativos", "Los actos de mero trámite que no decidan el fondo", "Los actos que se separen del criterio seguido en actuaciones precedentes"],
+    "correct": 2,
+    "exp": "El artículo 35 lista los actos que deben ser motivados; los actos de mero trámite ordinarios no figuran en dicha lista [26, 27]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 16)",
+    "q": "Los documentos que los interesados dirijan a las Administraciones Públicas pueden presentarse en:",
+    "options": ["El registro electrónico de la Administración a la que se dirijan", "Las oficinas de Correos", "Las representaciones diplomáticas en el extranjero", "Todas son correctas"],
+    "correct": 3,
+    "exp": "El artículo 16.4 detalla los lugares donde pueden presentarse válidamente los documentos [28]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 117)",
+    "q": "Como regla general, la interposición de cualquier recurso:",
+    "options": ["Suspende automáticamente la ejecución del acto", "No suspenderá la ejecución del acto impugnado", "Anula el acto impugnado", "Obliga a la Administración a pedir perdón"],
+    "correct": 1,
+    "exp": "La interposición de cualquier recurso, excepto disposición en contrario, no suspenderá la ejecución del acto [29]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 77)",
+    "q": "El plazo del período de prueba en un procedimiento administrativo será:",
+    "options": ["No superior a 10 días ni inferior a 5", "No superior a 30 días ni inferior a 10", "Fijo de 15 días hábiles", "De un mes natural"],
+    "correct": 1,
+    "exp": "El instructor acordará un período de prueba por un plazo no superior a treinta días ni inferior a diez [30]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 82)",
+    "q": "En el trámite de audiencia, los interesados pueden alegar y presentar documentos en un plazo de:",
+    "options": ["Entre 5 y 10 días", "Entre 10 y 15 días", "Exactamente 10 días", "Un mes"],
+    "correct": 1,
+    "exp": "Los interesados dispondrán de un plazo no inferior a diez días ni superior a quince [31]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 20)",
+    "q": "Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas son responsables directos de:",
+    "options": ["La tramitación de los asuntos", "Adoptar medidas para remover obstáculos que retrasen el ejercicio de derechos", "Eliminar anomalías en la tramitación", "Todas son correctas"],
+    "correct": 3,
+    "exp": "El artículo 20.1 establece la responsabilidad directa del personal en la tramitación y resolución de obstáculos [32, 33]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 63)",
+    "q": "En los procedimientos sancionadores, la Ley 39/2015 exige la debida separación entre:",
+    "options": ["El denunciante y el denunciado", "La fase instructora y la sancionadora", "El presupuesto y la multa", "El castellano y la lengua cooficial"],
+    "correct": 1,
+    "exp": "Los procedimientos sancionadores establecerán la debida separación entre la fase instructora y la sancionadora, encomendadas a órganos distintos [34]."
+  },
+  {
+    "tema": "Ley 39/2015 (Art. 100)",
+    "q": "Señale cuál de los siguientes NO es un medio de ejecución forzosa por la Administración:",
+    "options": ["Apremio sobre el patrimonio", "Ejecución subsidiaria", "Prisión preventiva del interesado", "Multa coercitiva"],
+    "correct": 2,
+    "exp": "Los medios son: apremio sobre patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. La prisión no es un medio administrativo [35]."
+  }
+]

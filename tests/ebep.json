@@ -1,0 +1,212 @@
+[
+  {
+    "tema": "TREBEP (Art. 2)",
+    "q": "De acuerdo con el ámbito de aplicación del TREBEP, señale cuál de las siguientes opciones es INCORRECTA:",
+    "options": ["Se aplica al personal funcionario de las Universidades Públicas", "Tiene carácter supletorio para todo el personal de las Administraciones Públicas no incluido en su ámbito", "Se aplica íntegramente al personal docente y estatutario de los Servicios de Salud", "Se aplica a las Administraciones de las entidades locales"],
+    "correct": 2,
+    "exp": "El personal docente y estatutario de Salud se rige por su legislación específica, aplicándoseles solo parcialmente el TREBEP [1]."
+  },
+  {
+    "tema": "TREBEP (Art. 8)",
+    "q": "¿Cómo se clasifica el personal al servicio de las Administraciones Públicas según el artículo 8?",
+    "options": ["Funcionarios de carrera, interinos, personal laboral y personal eventual", "Funcionarios de carrera, personal laboral y personal directivo", "Funcionarios de carrera, personal estatutario y personal colaborador", "Funcionarios de carrera, interinos y personal laboral fijo únicamente"],
+    "correct": 0,
+    "exp": "Los empleados públicos se clasifican en funcionarios de carrera, interinos, personal laboral (fijo, indefinido o temporal) y personal eventual [2]."
+  },
+  {
+    "tema": "TREBEP (Art. 9)",
+    "q": "Señale la respuesta correcta respecto a los funcionarios de carrera:",
+    "options": ["Tienen una relación laboral regulada por el Derecho del Trabajo", "Su relación es estatutaria y regulada por el Derecho Administrativo", "Pueden ser cesados libremente por la autoridad que los nombró", "No tienen garantizada la inamovilidad en su condición"],
+    "correct": 1,
+    "exp": "Los funcionarios de carrera están vinculados por una relación estatutaria regulada por el Derecho Administrativo y tienen garantizada la inamovilidad [3, 4]."
+  },
+  {
+    "tema": "TREBEP (Art. 9)",
+    "q": "El ejercicio de las funciones que impliquen la participación directa en la salvaguardia de los intereses generales corresponde exclusivamente a:",
+    "options": ["El personal laboral fijo", "El personal eventual de confianza", "Los funcionarios públicos", "El personal directivo profesional"],
+    "correct": 2,
+    "exp": "Estas funciones corresponden exclusivamente a los funcionarios públicos en los términos que la ley de desarrollo establezca [4]."
+  },
+  {
+    "tema": "TREBEP (Art. 10)",
+    "q": "Señale el plazo máximo de permanencia de un funcionario interino en una plaza vacante según el artículo 10.4:",
+    "options": ["Un año improrrogable", "Dos años", "Tres años", "Cinco años"],
+    "correct": 2,
+    "exp": "En plazas vacantes, la relación de interinidad tendrá un máximo de tres años [5]."
+  },
+  {
+    "tema": "TREBEP (Art. 12)",
+    "q": "El personal eventual se caracteriza por realizar funciones de:",
+    "options": ["Carácter permanente y retribuido", "Confianza o asesoramiento especial", "Gestión administrativa ordinaria", "Potestad administrativa delegada"],
+    "correct": 1,
+    "exp": "El personal eventual solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial [6]."
+  },
+  {
+    "tema": "TREBEP (Art. 14)",
+    "q": "Es un derecho individual de los empleados públicos:",
+    "options": ["El ejercicio de la huelga", "La negociación colectiva", "La inamovilidad en la condición de funcionario de carrera", "El derecho de reunión"],
+    "correct": 2,
+    "exp": "La inamovilidad es un derecho individual (Art. 14.a), mientras que los otros son derechos individuales ejercidos colectivamente [7, 8]."
+  },
+  {
+    "tema": "TREBEP (Art. 16)",
+    "q": "La modalidad de carrera profesional que consiste en el ascenso en la estructura de puestos de trabajo se denomina:",
+    "options": ["Carrera horizontal", "Carrera vertical", "Promoción interna horizontal", "Promoción interna vertical"],
+    "correct": 1,
+    "exp": "La carrera vertical consiste en el ascenso en la estructura de puestos de trabajo por procedimientos de provisión [9]."
+  },
+  {
+    "tema": "TREBEP (Art. 18)",
+    "q": "¿Qué antigüedad mínima se exige para participar en procesos de promoción interna?",
+    "options": ["Un año de servicio activo", "Dos años de servicio activo en el inferior Subgrupo o Grupo", "Cinco años de servicio efectivo", "No se exige antigüedad mínima"],
+    "correct": 1,
+    "exp": "Se requiere tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo o Grupo [10]."
+  },
+  {
+    "tema": "TREBEP (Art. 20)",
+    "q": "Señale la respuesta correcta respecto a la evaluación del desempeño:",
+    "options": ["Es voluntaria para las Administraciones", "Sus resultados no pueden afectar a las retribuciones", "La continuidad en el puesto obtenido por concurso queda vinculada a ella", "Solo se aplica al personal laboral"],
+    "correct": 2,
+    "exp": "La continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño [11]."
+  },
+  {
+    "tema": "TREBEP (Art. 23)",
+    "q": "Las retribuciones básicas de los funcionarios incluyen exclusivamente:",
+    "options": ["Sueldo y trienios", "Sueldo, trienios y complemento de destino", "Sueldo y gratificaciones extraordinarias", "Sueldo, trienios y pagas extraordinarias"],
+    "correct": 0,
+    "exp": "Las retribuciones básicas están integradas única y exclusivamente por el sueldo y los trienios [12]."
+  },
+  {
+    "tema": "TREBEP (Art. 24)",
+    "q": "¿Qué factor NO determina la cuantía de las retribuciones complementarias?",
+    "options": ["La antigüedad por trienios", "La especial dificultad técnica o responsabilidad", "El grado de interés o iniciativa", "Los servicios extraordinarios fuera de la jornada normal"],
+    "correct": 0,
+    "exp": "Los trienios son retribución básica (Art. 23), no complementaria [12, 13]."
+  },
+  {
+    "tema": "TREBEP (Art. 30)",
+    "q": "La parte de la jornada no realizada por un empleado público:",
+    "options": ["Dará lugar a una sanción disciplinaria de multa", "Dará lugar a la deducción proporcional de haberes, que no tiene carácter sancionador", "No tiene consecuencias si se recupera en el mes siguiente", "Supone la pérdida de la condición de funcionario"],
+    "correct": 1,
+    "exp": "La deducción proporcional de haberes por jornada no realizada no tiene carácter sancionador [14]."
+  },
+  {
+    "tema": "TREBEP (Art. 33)",
+    "q": "¿Qué sindicatos están legitimados para estar presentes en las Mesas de Negociación?",
+    "options": ["Todos los inscritos en el registro correspondiente", "Los que hayan obtenido el 5% de representantes", "Los que hayan obtenido el 10% o más de los representantes en las elecciones", "Solo los sindicatos más representativos a nivel estatal"],
+    "correct": 2,
+    "exp": "Están legitimados los sindicatos con el 10% o más de representantes en el ámbito específico [15]."
+  },
+  {
+    "tema": "TREBEP (Art. 37)",
+    "q": "Señale qué materia está EXCLUIDA de la obligatoriedad de negociación:",
+    "options": ["El calendario laboral y horarios", "Los criterios generales sobre ofertas de empleo público", "Los poderes de dirección y control propios de la relación jerárquica", "Las normas sobre evaluación del desempeño"],
+    "correct": 2,
+    "exp": "Los poderes de dirección y control están expresamente excluidos de la negociación [16]."
+  },
+  {
+    "tema": "TREBEP (Art. 38)",
+    "q": "Los Acuerdos celebrados en las Mesas de Negociación sobre materias competencia de los órganos de gobierno:",
+    "options": ["Son válidos desde su firma por los sindicatos", "Requieren aprobación expresa y formal por los órganos de gobierno para su validez", "No son vinculantes", "Solo se aplican si se publican en el BOE en 24 horas"],
+    "correct": 1,
+    "exp": "Para su validez y eficacia es necesaria la aprobación expresa y formal por los órganos de gobierno [17]."
+  },
+  {
+    "tema": "TREBEP (Art. 39)",
+    "q": "En unidades electorales de entre 31 y 49 funcionarios, la representación corresponde a:",
+    "options": ["Un Delegado de Personal", "Tres Delegados de Personal", "Una Junta de Personal", "Cinco Delegados de Personal"],
+    "correct": 1,
+    "exp": "De 31 a 49 funcionarios se eligen tres Delegados de Personal [18]."
+  },
+  {
+    "tema": "TREBEP (Art. 41)",
+    "q": "¿Qué crédito de horas mensuales tienen los representantes en unidades de hasta 100 funcionarios?",
+    "options": ["15 horas", "20 horas", "30 horas", "40 horas"],
+    "correct": 0,
+    "exp": "Hasta 100 funcionarios, el crédito horario es de 15 horas mensuales [19]."
+  },
+  {
+    "tema": "TREBEP (Art. 48)",
+    "q": "El permiso por matrimonio o registro de pareja de hecho tiene una duración de:",
+    "options": ["10 días naturales", "15 días", "20 días hábiles", "Un mes"],
+    "correct": 1,
+    "exp": "El permiso por matrimonio o pareja de hecho es de 15 días [20]."
+  },
+  {
+    "tema": "TREBEP (Art. 48)",
+    "q": "El permiso por asuntos particulares es de:",
+    "options": ["3 días al año", "6 días al año", "9 días al año", "Un día por cada dos meses trabajados"],
+    "correct": 1,
+    "exp": "Los funcionarios tienen derecho a seis días al año por asuntos particulares [20]."
+  },
+  {
+    "tema": "TREBEP (Art. 50)",
+    "q": "Las vacaciones anuales de los funcionarios públicos son de:",
+    "options": ["30 días naturales", "22 días hábiles", "25 días laborables", "Un mes natural"],
+    "correct": 1,
+    "exp": "Los funcionarios tienen derecho a 22 días hábiles de vacaciones por año natural [21]."
+  },
+  {
+    "tema": "TREBEP (Art. 56)",
+    "q": "Para participar en procesos selectivos, la edad mínima requerida es de:",
+    "options": ["14 años", "16 años", "18 años", "21 años"],
+    "correct": 1,
+    "exp": "El requisito es tener cumplidos dieciséis años y no exceder la edad de jubilación forzosa [22]."
+  },
+  {
+    "tema": "TREBEP (Art. 59)",
+    "q": "¿Qué porcentaje mínimo de vacantes se reserva para personas con discapacidad en las ofertas de empleo público?",
+    "options": ["3 por ciento", "5 por ciento", "7 por ciento", "10 por ciento"],
+    "correct": 2,
+    "exp": "Se reservará un cupo no inferior al siete por ciento de las vacantes [23]."
+  },
+  {
+    "tema": "TREBEP (Art. 60)",
+    "q": "Señale quién NO puede formar parte de los órganos de selección:",
+    "options": ["Los funcionarios de carrera", "El personal eventual", "Los expertos técnicos", "Los representantes de otras Administraciones"],
+    "correct": 1,
+    "exp": "El personal de elección política, funcionarios interinos y personal eventual no pueden formar parte de los órganos de selección [24]."
+  },
+  {
+    "tema": "TREBEP (Art. 63)",
+    "q": "Señale cuál NO es una causa de pérdida de la condición de funcionario de carrera:",
+    "options": ["La jubilación total", "La renuncia", "La excedencia voluntaria por interés particular", "La sanción de separación del servicio"],
+    "correct": 2,
+    "exp": "La excedencia es una situación administrativa (Art. 89), no una causa de pérdida de la condición [25, 26]."
+  },
+  {
+    "tema": "TREBEP (Art. 67)",
+    "q": "La jubilación forzosa se declara de oficio al cumplir el funcionario los:",
+    "options": ["60 años", "65 años", "67 años", "70 años"],
+    "correct": 1,
+    "exp": "La jubilación forzosa es a los 65 años, sin perjuicio de las prolongaciones autorizadas [27]."
+  },
+  {
+    "tema": "TREBEP (Art. 76)",
+    "q": "Para el acceso a los cuerpos del Grupo A se exige estar en posesión de:",
+    "options": ["Título de Bachiller", "Título de Técnico Superior", "Título universitario de Grado", "Título de Doctor"],
+    "correct": 2,
+    "exp": "Para el Grupo A (Subgrupos A1 y A2) se exige el título universitario de Grado [28]."
+  },
+  {
+    "tema": "TREBEP (Art. 85)",
+    "q": "¿Cuál de las siguientes es una situación administrativa de los funcionarios de carrera?",
+    "options": ["Servicios especiales", "Baja por enfermedad", "Misión diplomática temporal", "Prácticas en empresa privada"],
+    "correct": 0,
+    "exp": "Las situaciones son: servicio activo, servicios especiales, servicio en otras AA.PP., excedencia y suspensión [29]."
+  },
+  {
+    "tema": "TREBEP (Art. 95)",
+    "q": "Es una falta disciplinaria MUY GRAVE:",
+    "options": ["La falta de puntualidad injustificada", "El abandono del servicio", "La incorrección con el público", "El descuido en la conservación de locales"],
+    "correct": 1,
+    "exp": "El abandono del servicio es una falta muy grave [30]."
+  },
+  {
+    "tema": "TREBEP (Art. 97)",
+    "q": "Las infracciones graves prescriben a los:",
+    "options": ["Seis meses", "Un año", "Dos años", "Tres años"],
+    "correct": 2,
+    "exp": "Las faltas graves prescriben a los dos años (Muy graves a los 3 y leves a los 6 meses) [31]."
+  }
+]

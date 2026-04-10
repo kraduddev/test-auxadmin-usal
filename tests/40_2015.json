@@ -1,0 +1,212 @@
+[
+  {
+    "tema": "Ley 40/2015 (Art. 2)",
+    "q": "Según el artículo 2.3, ¿cuáles de los siguientes sujetos tienen la consideración de Administraciones Públicas?",
+    "options": ["Únicamente la Administración General del Estado y las de las CCAA", "La AGE, las CCAA, las Entidades Locales y los organismos públicos y entidades de derecho público vinculados o dependientes", "Solo aquellas entidades que tengan personalidad jurídica privada pero ejerzan potestades", "La Administración General del Estado y las Universidades públicas exclusivamente"],
+    "correct": 1,
+    "exp": "Tienen consideración de Administraciones Públicas la AGE, las CCAA, las Entidades Locales y los organismos y entidades de derecho público vinculados o dependientes [Art. 2.3]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 3)",
+    "q": "Señale cuál de los siguientes NO es un principio que las Administraciones Públicas deban respetar en su actuación y relaciones:",
+    "options": ["Simplicidad, claridad y proximidad a los ciudadanos", "Buena fe, confianza legítima y lealtad institucional", "Jerarquía absoluta sobre los ciudadanos en cualquier circunstancia", "Eficiencia en la asignación y utilización de los recursos públicos"],
+    "correct": 2,
+    "exp": "Los principios de actuación incluyen simplicidad, buena fe y eficiencia, pero no una 'jerarquía absoluta sobre los ciudadanos' [Art. 3.1]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 5)",
+    "q": "Para la creación de cualquier órgano administrativo, el artículo 5.3 exige el cumplimiento de varios requisitos. Señale el INCORRECTO:",
+    "options": ["Determinación de su forma de integración y dependencia jerárquica", "Delimitación de sus funciones y competencias", "Publicación previa en el tablón de anuncios de la entidad durante un mes", "Dotación de los créditos necesarios para su puesta en marcha"],
+    "correct": 2,
+    "exp": "Los requisitos legales son integración/dependencia, funciones/competencias y dotación de créditos. La publicación previa en un tablón no es un requisito de creación del artículo [Art. 5.3]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 8)",
+    "q": "Respecto a la titularidad de la competencia, señale la respuesta CORRECTA:",
+    "options": ["La delegación de firma supone la alteración de la titularidad de la competencia", "La encomienda de gestión altera la titularidad de la competencia", "La competencia es irrenunciable y se ejercerá por los órganos que la tengan como propia", "La suplencia supone siempre un cambio en la titularidad de la competencia"],
+    "correct": 2,
+    "exp": "La competencia es irrenunciable. Ni la delegación, ni la encomienda, ni la firma, ni la suplencia alteran la titularidad [Art. 8.1]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 9)",
+    "q": "Señale la respuesta INCORRECTA en relación con la delegación de competencias:",
+    "options": ["Se puede delegar la adopción de disposiciones de carácter general", "La delegación es revocable en cualquier momento por el órgano que la confirió", "Las resoluciones adoptadas por delegación se consideran dictadas por el órgano delegante", "Las delegaciones deben publicarse en el Boletín Oficial correspondiente"],
+    "correct": 0,
+    "exp": "En ningún caso podrán ser objeto de delegación las competencias relativas a la adopción de disposiciones de carácter general [Art. 9.2.b)]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 10)",
+    "q": "En el supuesto de delegación de competencias en órganos NO dependientes jerárquicamente, ¿quién podrá avocar el conocimiento de un asunto?",
+    "options": ["Cualquier órgano superior de la Administración", "Únicamente el órgano delegante", "Solo el Consejo de Ministros", "Nadie, el conocimiento de asuntos delegados en órganos no dependientes no puede ser avocado"],
+    "correct": 1,
+    "exp": "En delegaciones entre órganos no dependientes jerárquicamente, el conocimiento del asunto solo puede ser avocado por el órgano delegante [Art. 10.1]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 11)",
+    "q": "Sobre las encomiendas de gestión, el artículo 11 establece que:",
+    "options": ["Suponen la cesión de la titularidad de la competencia", "Podrán tener por objeto prestaciones propias de los contratos del sector público", "No suponen cesión de titularidad ni de los elementos sustantivos de su ejercicio", "Solo pueden realizarse entre órganos de la misma Administración"],
+    "correct": 2,
+    "exp": "La encomienda no supone cesión de titularidad y no puede referirse a prestaciones propias de contratos regulados por la ley de contratos [Art. 11.1 y 11.2]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 12)",
+    "q": "En las resoluciones y actos que se firmen por delegación de firma, ¿qué debe hacerse constar necesariamente?",
+    "options": ["La fecha de nacimiento del titular de la unidad", "La circunstancia de la delegación y la autoridad de procedencia", "El número de cuenta bancaria del órgano", "Únicamente la firma, sin más aclaraciones"],
+    "correct": 1,
+    "exp": "Se hará constar la circunstancia de la delegación de firma y la autoridad de procedencia [Art. 12.3]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 13)",
+    "q": "Señale la respuesta CORRECTA sobre la suplencia de los titulares de los órganos administrativos:",
+    "options": ["La suplencia requiere siempre publicación oficial para su validez", "La suplencia implica una alteración de la titularidad de la competencia", "No implicará alteración de la competencia y para su validez no será necesaria su publicación", "La suplencia solo puede darse por enfermedad, nunca por vacaciones"],
+    "correct": 2,
+    "exp": "La suplencia no altera la competencia ni requiere publicación oficial para ser válida [Art. 13.2]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 17)",
+    "q": "Respecto a los asuntos a tratar en una sesión de un órgano colegiado, según el artículo 17.4:",
+    "options": ["Se pueden tratar libremente aunque no estén en el orden del día", "No podrá ser objeto de acuerdo ningún asunto no incluido en el orden del día, salvo que asistan todos los miembros y sea declarada la urgencia por mayoría", "Solo el Presidente puede añadir puntos fuera del orden del día durante la sesión", "Basta con que lo pida la mitad de los miembros presentes"],
+    "correct": 1,
+    "exp": "Se requiere la asistencia de todos los miembros y el voto favorable de la mayoría para declarar la urgencia de asuntos no incluidos en el orden del día [Art. 17.4]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 19)",
+    "q": "En los órganos colegiados de la AGE, ¿cuál es el plazo para que los miembros que discrepen del acuerdo mayoritario formulen un voto particular por escrito?",
+    "options": ["En el acto de la sesión únicamente", "En el plazo de dos días", "En el plazo de cinco días", "Hasta la siguiente reunión ordinaria"],
+    "correct": 1,
+    "exp": "Los miembros que discrepen podrán formular voto particular por escrito en el plazo de dos días [Art. 19.5]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 21)",
+    "q": "Los órganos colegiados de la AGE se clasifican por su composición en:",
+    "options": ["Estratégicos y operativos", "Ministeriales e Interministeriales", "Nacionales e Internacionales", "Permanentes y temporales"],
+    "correct": 1,
+    "exp": "Se clasifican en interministeriales (miembros de diferentes Ministerios) y ministeriales (miembros de un solo Ministerio) [Art. 21.1]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 22)",
+    "q": "La creación de órganos colegiados en la AGE que tengan funciones decisorias o de propuesta preceptiva deberá revestir la forma de:",
+    "options": ["Acuerdo del Consejo de Ministros únicamente", "Real Decreto u Orden Ministerial según los casos", "Comunicación verbal del Ministro al BOE", "Circular interna de la Subsecretaría"],
+    "correct": 1,
+    "exp": "Revistirá forma de Real Decreto (si el Presidente tiene rango superior a Director General) u Orden Ministerial en los demás casos [Art. 22.2]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 23)",
+    "q": "Señale cuál de las siguientes opciones es un motivo de ABSTENCIÓN según el artículo 23:",
+    "options": ["Tener parentesco de consanguinidad dentro del tercer grado con los interesados", "Tener amistad íntima con cualquiera de los interesados", "Haber nacido en la misma provincia que el interesado", "Haber sido compañero de estudios hace más de 30 años sin relación posterior"],
+    "correct": 1,
+    "exp": "Tener amistad íntima o enemistad manifiesta es causa legal de abstención [Art. 23.2.c)]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 24)",
+    "q": "Cuando se promueve la recusación de un funcionario y este NIEGA la causa alegada, ¿en qué plazo debe resolver el superior jerárquico?",
+    "options": ["En el día siguiente", "En tres días", "En diez días", "En un mes"],
+    "correct": 1,
+    "exp": "Si el recusado niega la causa, el superior resolverá en el plazo de tres días [Art. 24.4]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 26)",
+    "q": "Respecto a la irretroactividad de las disposiciones sancionadoras, estas producirán efecto retroactivo cuando:",
+    "options": ["Favorezcan al presunto infractor o al infractor", "Lo decida discrecionalmente el instructor del expediente", "Se trate de infracciones leves", "Haya pasado más de un año desde la infracción"],
+    "correct": 0,
+    "exp": "Las disposiciones sancionadoras producen efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor [Art. 26.2]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 29)",
+    "q": "Señale la respuesta CORRECTA sobre las sanciones administrativas:",
+    "options": ["Pueden implicar privación de libertad en casos muy graves", "En ningún caso podrán implicar, directa o subsidiariamente, privación de libertad", "La multa puede sustituirse por arresto domiciliario si no se paga", "Solo las dictadas por jueces pueden privar de libertad"],
+    "correct": 1,
+    "exp": "Las sanciones administrativas en ningún caso pueden implicar privación de libertad [Art. 29.1]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 30)",
+    "q": "Si las leyes no fijan otros plazos, ¿en cuánto tiempo prescriben las infracciones LEVES?",
+    "options": ["A los tres meses", "A los seis meses", "Al año", "A los dos años"],
+    "correct": 1,
+    "exp": "Las infracciones leves prescriben a los seis meses si la ley no fija otro plazo [Art. 30.1]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 32)",
+    "q": "Respecto a la responsabilidad patrimonial, los particulares NO tienen derecho a ser indemnizados cuando la lesión derive de:",
+    "options": ["Funcionamiento normal de los servicios públicos", "Funcionamiento anormal de los servicios públicos", "Casos de fuerza mayor", "Daños que el particular no tenga el deber jurídico de soportar"],
+    "correct": 2,
+    "exp": "Se indemnizarán las lesiones consecuencia del funcionamiento normal o anormal, salvo casos de fuerza mayor [Art. 32.1]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 36)",
+    "q": "Para que la Administración pueda exigir de oficio la responsabilidad a su personal por los daños indemnizados a terceros, debe concurrir:",
+    "options": ["Cualquier tipo de error o descuido", "Dolo, o culpa o negligencia graves", "Únicamente dolo (intencionalidad)", "Falta de puntualidad reiterada"],
+    "correct": 1,
+    "exp": "La Administración exigirá de oficio la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves [Art. 36.2]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 41)",
+    "q": "Se entiende por actuación administrativa automatizada aquella realizada íntegramente a través de medios electrónicos:",
+    "options": ["Siempre que un funcionario pulse el botón de envío", "En la que no haya intervenido de forma directa un empleado público", "Solo si se trata de la publicación de leyes", "Únicamente en el ámbito de la Agencia Tributaria"],
+    "correct": 1,
+    "exp": "Es automatizada cuando se realiza íntegramente por medios electrónicos sin intervención directa de un empleado público [Art. 41.1]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 46 bis)",
+    "q": "Los sistemas de información para el registro de datos fiscales o usuarios del sistema nacional de salud deberán ubicarse y prestarse:",
+    "options": ["En cualquier país del mundo con medidas de seguridad", "Dentro del territorio de la Unión Europea", "Únicamente en territorio español", "En la nube, sin importar la ubicación física"],
+    "correct": 1,
+    "exp": "Deben ubicarse y prestarse dentro del territorio de la Unión Europea [Art. 46 bis]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 49)",
+    "q": "Los convenios interadministrativos deben tener una duración determinada que, como regla general, NO podrá ser superior a:",
+    "options": ["Dos años", "Cuatro años", "Diez años", "Tiempo indefinido"],
+    "correct": 1,
+    "exp": "Los convenios no podrán tener una duración superior a cuatro años, salvo que una norma prevea un plazo superior [Art. 49.h) 1º]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 55)",
+    "q": "Dentro de la organización central de la AGE, ¿cuál de los siguientes órganos tiene la consideración de órgano SUPERIOR?",
+    "options": ["Los Subsecretarios", "Los Secretarios de Estado", "Los Directores Generales", "Los Subdirectores Generales"],
+    "correct": 1,
+    "exp": "Son órganos superiores los Ministros y los Secretarios de Estado [Art. 55.3]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 60)",
+    "q": "Señale la respuesta CORRECTA sobre la ordenación jerárquica de los órganos directivos:",
+    "options": ["Director General, Subdirector General, Subsecretario", "Subsecretario, Director General, Subdirector General", "Subdirector General, Subsecretario, Director General", "Todos tienen el mismo nivel jerárquico"],
+    "correct": 1,
+    "exp": "Se ordenan jerárquicamente: Subsecretario, Director General y Subdirector General [Art. 60.2]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 63)",
+    "q": "¿A qué órgano corresponde el desempeño de la jefatura superior de todo el personal del Departamento ministerial?",
+    "options": ["Al Ministro", "Al Secretario de Estado", "Al Subsecretario", "Al Director General de Costes de Personal"],
+    "correct": 2,
+    "exp": "Corresponde al Subsecretario desempeñar la jefatura superior de todo el personal del Departamento [Art. 63.1.f)]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 72)",
+    "q": "Los Delegados del Gobierno en las CCAA tienen rango de:",
+    "options": ["Ministro", "Secretario de Estado", "Subsecretario", "Director General"],
+    "correct": 2,
+    "exp": "Los Delegados del Gobierno son órganos directivos con rango de Subsecretario [Art. 72.3]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 74)",
+    "q": "¿Quién nombra a los Subdelegados del Gobierno en las provincias?",
+    "options": ["El Ministro de Hacienda y Administraciones Públicas", "El Delegado del Gobierno en la respectiva CCAA", "El Presidente del Gobierno", "El Consejo de Ministros"],
+    "correct": 1,
+    "exp": "El Subdelegado será nombrado por el Delegado del Gobierno mediante el procedimiento de libre designación [Art. 74]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 82)",
+    "q": "¿De qué órgano depende la integración y gestión del Inventario de Entidades del Sector Público Estatal, Autonómico y Local?",
+    "options": ["De la Agencia Tributaria", "Del Tribunal de Cuentas", "De la Intervención General de la Administración del Estado", "De la Secretaría de Estado de Administraciones Públicas"],
+    "correct": 2,
+    "exp": "Dependerá de la Intervención General de la Administración del Estado (IGAE) [Art. 82.1]."
+  },
+  {
+    "tema": "Ley 40/2015 (Art. 84)",
+    "q": "¿Cuál de los siguientes tipos de entidades NO forma parte del sector público institucional estatal?",
+    "options": ["Los organismos autónomos", "Las sociedades mercantiles estatales", "Los Colegios Profesionales de ámbito nacional", "Las fundaciones del sector público"],
+    "correct": 2,
+    "exp": "El artículo 84 enumera los integrantes, entre los que no figuran los Colegios Profesionales (que son corporaciones de derecho público con normativa específica) [Art. 84.1]."
+  }
+]

@@ -31,12 +31,12 @@
         #selector-screen { text-align: center; padding: 10px 0 20px; }
         #selector-screen h1 { color: var(--primary); font-size: 1.5rem; margin-bottom: 8px; }
         #selector-screen p { color: #718096; margin-bottom: 30px; font-size: 0.95rem; }
-        .test-cards { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
-        .test-card { flex: 1; min-width: 200px; max-width: 260px; border: 2px solid #edf2f7; border-radius: 12px; padding: 24px 16px; cursor: pointer; transition: all 0.2s ease; background: white; }
+        .test-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; }
+        .test-card { border: 2px solid #edf2f7; border-radius: 12px; padding: 20px 14px; cursor: pointer; transition: all 0.2s ease; background: white; text-align: center; }
         .test-card:hover { border-color: var(--primary); box-shadow: 0 4px 14px rgba(128,0,0,0.15); transform: translateY(-3px); }
-        .test-card .icon { font-size: 2.5rem; margin-bottom: 12px; }
-        .test-card h2 { font-size: 1rem; color: var(--primary); margin-bottom: 8px; }
-        .test-card span { font-size: 0.82rem; color: #718096; }
+        .test-card .icon { font-size: 2.2rem; margin-bottom: 10px; }
+        .test-card h2 { font-size: 0.95rem; color: var(--primary); margin-bottom: 6px; }
+        .test-card span { font-size: 0.78rem; color: #718096; }
     </style>
 </head>
 <body>
@@ -48,15 +48,35 @@
         <h1>🏛️ Repaso Legislación USAL 2026</h1>
         <p>Elige el test que quieres realizar:</p>
         <div class="test-cards">
-            <div class="test-card" onclick="startTest('questions.json')">
+            <div class="test-card" onclick="startTest('tests/estatutos.json')">
+                <div class="icon">🏛️</div>
+                <h2>Estatutos USAL</h2>
+                <span>Órganos, cargos y estructura de la Universidad de Salamanca</span>
+            </div>
+            <div class="test-card" onclick="startTest('tests/ebep.json')">
+                <div class="icon">👔</div>
+                <h2>EBEP</h2>
+                <span>Estatuto Básico del Empleado Público</span>
+            </div>
+            <div class="test-card" onclick="startTest('tests/39_2015.json')">
+                <div class="icon">📋</div>
+                <h2>Ley 39/2015</h2>
+                <span>Procedimiento Administrativo Común</span>
+            </div>
+            <div class="test-card" onclick="startTest('tests/40_2015.json')">
+                <div class="icon">⚖️</div>
+                <h2>Ley 40/2015</h2>
+                <span>Régimen Jurídico del Sector Público</span>
+            </div>
+            <div class="test-card" onclick="startTest('tests/transparencia.json')">
+                <div class="icon">🔍</div>
+                <h2>Ley de Transparencia</h2>
+                <span>Ley 19/2013 de Transparencia y Buen Gobierno</span>
+            </div>
+            <div class="test-card" onclick="startTest('tests/questions.json')">
                 <div class="icon">📚</div>
                 <h2>Test General</h2>
-                <span>Estatutos USAL · Ley 39/2015 · Ley 40/2015 · Código Ético</span>
-            </div>
-            <div class="test-card" onclick="startTest('transparencia.json')">
-                <div class="icon">🔍</div>
-                <h2>Test Transparencia</h2>
-                <span>Ley 19/2013 de Transparencia y Buen Gobierno</span>
+                <span>Preguntas mixtas de toda la normativa</span>
             </div>
         </div>
     </div>

@@ -1,0 +1,212 @@
+[
+  {
+    "tema": "Estatutos USAL (Art. 2)",
+    "q": "Según el artículo 2 de los Estatutos, ¿cuál de los siguientes NO es uno de los fines de la Universidad de Salamanca?",
+    "options": ["La promoción y difusión de la lengua española", "La garantía de la dignidad de la persona sin discriminación", "La formación exclusiva de profesionales de la administración pública", "La ampliación del conocimiento por medio de la investigación"],
+    "correct": 2,
+    "exp": "Los fines incluyen la formación de profesionales cualificados en general, no solo de la administración pública [1, 2]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 6)",
+    "q": "Señale qué elemento NO forma parte de la estructura académica de la Universidad de Salamanca:",
+    "options": ["Facultades", "Escuelas", "Delegaciones de Gobierno", "Departamentos"],
+    "correct": 2,
+    "exp": "La estructura académica se compone de Facultades, Escuelas, Departamentos, Institutos Universitarios de Investigación y Centros Propios [3]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 14)",
+    "q": "¿Qué mayoría se requiere en el Consejo de Gobierno para la creación o modificación de Departamentos?",
+    "options": ["Mayoría simple", "Mayoría absoluta", "Acuerdo favorable de al menos dos tercios de sus miembros", "Unanimidad de los presentes"],
+    "correct": 2,
+    "exp": "La decisión corresponde al Consejo de Gobierno por acuerdo favorable de al menos dos tercios de los miembros que lo constituyen [4]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 16)",
+    "q": "¿En qué mes deben los Departamentos elevar al Rector la Memoria anual de su labor docente e investigadora?",
+    "options": ["Enero", "Junio", "Septiembre", "Diciembre"],
+    "correct": 2,
+    "exp": "Anualmente, en el mes de septiembre, los Departamentos elevarán al Rector dicha Memoria [5]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 18)",
+    "q": "Respecto a los Institutos Universitarios de Investigación mixtos, señale la respuesta CORRECTA:",
+    "options": ["Son aquellos integrados exclusivamente por personal de la Universidad", "Son los creados en colaboración con otras instituciones públicas o privadas mediante convenio", "Son instituciones privadas adscritas sin convenio", "Solo pueden ser creados por la Junta de Castilla y León sin intervención de la Universidad"],
+    "correct": 1,
+    "exp": "Son Institutos mixtos los creados en colaboración con otras instituciones mediante un convenio o forma de cooperación [6]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 31)",
+    "q": "¿A quién corresponde el nombramiento de los Directores de los Colegios Mayores?",
+    "options": ["Al Claustro Universitario", "Al Rector, oído el Consejo de Gobierno", "Al Consejo Social", "A la Junta de Castilla y León"],
+    "correct": 1,
+    "exp": "El nombramiento de los Directores de los Colegios Mayores corresponde al Rector, oído el Consejo de Gobierno [7]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 35)",
+    "q": "¿Cuál es un requisito necesario para el desempeño de órganos unipersonales de gobierno?",
+    "options": ["Tener al menos 10 años de antigüedad", "La dedicación a tiempo completo", "Ser miembro del Consejo Social", "Haber sido Decano previamente"],
+    "correct": 1,
+    "exp": "La dedicación a tiempo completo es requisito necesario y los cargos no pueden ejercerse simultáneamente [8]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 39)",
+    "q": "Señale qué miembro unipersonal NO forma parte nata del Consejo Social:",
+    "options": ["El Rector", "El Secretario General", "El Gerente", "El Defensor del Universitario"],
+    "correct": 3,
+    "exp": "Son miembros natos el Rector, el Secretario General y el Gerente [9]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 41)",
+    "q": "¿Cuál es el número total de claustrales que integran el Claustro Universitario, además del Rector, Secretario General y Gerente?",
+    "options": ["100", "200", "300", "500"],
+    "correct": 2,
+    "exp": "El Claustro está integrado por el Secretario General, el Gerente y 300 claustrales [10]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 41)",
+    "q": "¿Cada cuánto tiempo se renueva la representación estudiantil en el Claustro Universitario?",
+    "options": ["Cada año", "Cada dos años", "Cada cuatro años", "Cada seis años"],
+    "correct": 1,
+    "exp": "El Claustro se renueva cada cuatro años, salvo la representación estudiantil, que lo hace cada dos [11]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 43)",
+    "q": "¿Qué porcentaje del Claustro puede proponer la convocatoria extraordinaria de elecciones a Rector?",
+    "options": ["Un décimo", "Un quinto", "Un tercio", "La mitad más uno"],
+    "correct": 2,
+    "exp": "Un tercio del Claustro podrá proponer la convocatoria de elecciones a Rector [12]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 44)",
+    "q": "¿Cuántas veces al año debe reunirse el Pleno del Claustro Universitario con carácter ordinario?",
+    "options": ["Una vez al mes", "Al menos dos veces al año", "Una vez por trimestre", "Solo cuando el Rector lo decida"],
+    "correct": 1,
+    "exp": "El Pleno se reunirá con carácter ordinario al menos dos veces al año (octubre/noviembre y abril/mayo) [13]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 45)",
+    "q": "Para la válida constitución del Claustro de Doctores en primera convocatoria, se requiere la presencia de:",
+    "options": ["La mayoría absoluta de sus miembros", "Un tercio de sus miembros", "La mitad de sus miembros", "Cualquier número de asistentes"],
+    "correct": 1,
+    "exp": "Requiere la presencia de un tercio de sus miembros en primera convocatoria [14]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 47)",
+    "q": "En la composición del Consejo de Gobierno, ¿cuántos estudiantes representan al sector en el Claustro?",
+    "options": ["Tres", "Seis", "Diez", "Quince"],
+    "correct": 1,
+    "exp": "Son seis estudiantes, de los que dos pertenecerán al Doctorado y Postgrado [15]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 49)",
+    "q": "¿Con qué frecuencia mínima debe reunirse el Pleno del Consejo de Gobierno en período lectivo?",
+    "options": ["Semanalmente", "Al menos una vez al mes", "Una vez al trimestre", "Dos veces al año"],
+    "correct": 1,
+    "exp": "El Pleno se reunirá al menos una vez al mes en período lectivo [16]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 52)",
+    "q": "En las Juntas de Facultad o Escuela, los profesores con vinculación permanente representarán:",
+    "options": ["El 25 por ciento", "El 51 por ciento", "El 60 por ciento", "La totalidad de la Junta"],
+    "correct": 1,
+    "exp": "Representarán en términos numéricos el 51 por ciento del total de sus componentes [17]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 57)",
+    "q": "¿Qué porcentaje de la composición total del Consejo de Departamento corresponde a la representación de estudiantes?",
+    "options": ["5 por ciento", "15 por ciento", "25 por ciento", "51 por ciento"],
+    "correct": 2,
+    "exp": "Los estudiantes constituyen el 25 por ciento de la composición total del Consejo de Departamento [18]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 61)",
+    "q": "¿Cuántas veces al año debe reunirse el Consejo de Instituto Universitario de Investigación?",
+    "options": ["Al menos una vez al mes", "Al menos dos veces al año", "Una vez cada dos años", "Solo en situaciones de crisis"],
+    "correct": 1,
+    "exp": "El Consejo de Instituto se reunirá al menos dos veces al año [19]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 65)",
+    "q": "El Rector de la Universidad de Salamanca es elegido entre funcionarios de qué cuerpo:",
+    "options": ["Profesores Titulares de Escuela Universitaria", "Profesores Contratados Doctores", "Cuerpo de Catedráticos de Universidad", "Cualquier profesor doctor con 5 años de antigüedad"],
+    "correct": 2,
+    "exp": "Será elegido entre funcionarios del Cuerpo de Catedráticos de Universidad, en activo, que presten servicios en la misma [20]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 67)",
+    "q": "¿Cuál es el número máximo de Vicerrectores que el Rector puede nombrar?",
+    "options": ["Cinco", "Siete", "Ocho", "Diez"],
+    "correct": 2,
+    "exp": "El Rector podrá nombrar hasta ocho Vicerrectores entre los profesores doctores [21]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 69)",
+    "q": "Respecto al cargo de Gerente, señale la respuesta INCORRECTA:",
+    "options": ["Es propuesto por el Rector y nombrado de acuerdo con el Consejo Social", "Exige dedicación a tiempo completo", "Puede ejercer funciones docentes simultáneamente", "Le corresponde la gestión de los servicios administrativos y económicos"],
+    "correct": 2,
+    "exp": "El Gerente no podrá ejercer funciones docentes [22]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 71)",
+    "q": "¿Cuál es la duración del mandato de los Decanos de Facultad o Directores de Escuela?",
+    "options": ["Dos años", "Tres años", "Cuatro años", "Seis años"],
+    "correct": 2,
+    "exp": "El mandato tendrá una duración de cuatro años y podrán ser reelegidos por una sola vez consecutiva [23]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 75)",
+    "q": "¿Quién sustituye al Director de Departamento en caso de ausencia, incapacidad o vacante?",
+    "options": ["El Decano del Centro", "El Subdirector del Departamento", "El Secretario del Departamento", "El profesor más antiguo"],
+    "correct": 1,
+    "exp": "En caso de ausencia, incapacidad o vacante, el Director será sustituido por el Subdirector [24]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 84)",
+    "q": "¿Cuántos miembros integran la Junta Electoral de la Universidad?",
+    "options": ["Tres", "Cinco", "Siete", "Diez"],
+    "correct": 1,
+    "exp": "Estará formada por cinco miembros de la Comunidad Universitaria [25]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 98)",
+    "q": "En la elección de Rector, ¿qué porcentaje de voto ponderado corresponde a los Estudiantes de Grado?",
+    "options": ["5 por ciento", "9 por ciento", "21 por ciento", "52 por ciento"],
+    "correct": 2,
+    "exp": "A los estudiantes de Grado les corresponde el 21 por ciento del voto ponderado [26]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 122)",
+    "q": "¿Cuál es el límite máximo de horas anuales que los Ayudantes pueden colaborar en tareas docentes de índole práctica?",
+    "options": ["30 horas", "60 horas", "80 horas", "100 horas"],
+    "correct": 1,
+    "exp": "Colaborarán en tareas docentes de índole práctica hasta un máximo de 60 horas anuales [27]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 142)",
+    "q": "Para poder disfrutar de un año sabático, ¿cuántos años previos de servicio debe haber prestado el solicitante en la USAL?",
+    "options": ["Tres años", "Cinco años", "Seis años", "Diez años"],
+    "correct": 2,
+    "exp": "Será necesario que el solicitante haya prestado sus servicios durante, al menos, los seis años anteriores [28]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 176)",
+    "q": "¿Quién nombra al Defensor del Universitario?",
+    "options": ["El Rector", "El Claustro Universitario", "El Consejo Social", "La Junta de Castilla y León"],
+    "correct": 1,
+    "exp": "Será nombrado por el Claustro Universitario, por mayoría absoluta de sus miembros [29]."
+  },
+  {
+    "tema": "Estatutos USAL (Art. 186)",
+    "q": "La programación plurianual de la Universidad de Salamanca comprende un período de:",
+    "options": ["Dos años", "Tres años", "Cuatro años", "Cinco años"],
+    "correct": 2,
+    "exp": "Dicha programación comprenderá un período de cuatro años con actualización anual [30]."
+  },
+  {
+    "tema": "Estatutos USAL (Disp. Adicional 2ª)",
+    "q": "¿En cuántas Divisiones Académicas se agrupan los Centros a efectos exclusivamente electorales?",
+    "options": ["Cuatro", "Cinco", "Seis", "Ocho"],
+    "correct": 2,
+    "exp": "Los Centros se agrupan en seis Divisiones Académicas (de la A a la F) [31, 32]."
+  }
+]

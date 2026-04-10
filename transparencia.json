@@ -1,0 +1,212 @@
+[
+  {
+    "tema": "Ley 19/2013 (Art. 1)",
+    "q": "¿Cuál es el objeto principal de la Ley 19/2013 de transparencia?",
+    "options": ["Regular exclusivamente el acceso a la información de la Administración General del Estado", "Establecer las obligaciones de buen gobierno de los responsables públicos y ampliar la transparencia de la actividad pública", "Sustituir íntegramente a la Ley 39/2015 en materia de procedimiento", "Garantizar el secreto profesional en todas las instituciones del Estado"],
+    "correct": 1,
+    "exp": "La Ley tiene por objeto ampliar y reforzar la transparencia, regular el derecho de acceso y establecer obligaciones de buen gobierno [1]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 2)",
+    "q": "Señale la respuesta CORRECTA respecto al ámbito subjetivo de aplicación de la Ley 19/2013:",
+    "options": ["Se aplica únicamente a la Administración General del Estado", "No incluye a las Universidades públicas", "Se aplica a las sociedades mercantiles con participación pública superior al 50 por 100", "Las corporaciones de Derecho Público están exentas en todas sus actividades"],
+    "correct": 2,
+    "exp": "El artículo 2.1.g incluye a las sociedades mercantiles con participación directa o indirecta superior al 50% [2]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 3)",
+    "q": "Según el artículo 3, ¿qué entidades privadas están sujetas a las obligaciones de publicidad activa?",
+    "options": ["Cualquier asociación sin ánimo de lucro", "Entidades que perciban más de 100.000 euros anuales en ayudas o subvenciones públicas", "Empresas con más de 50 trabajadores", "Solo los partidos políticos y sindicatos"],
+    "correct": 1,
+    "exp": "Están obligadas las entidades privadas que perciban más de 100.000€ anuales o cuando el 40% de sus ingresos sean públicos (mínimo 5.000€) [3]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 5)",
+    "q": "En cuanto a los principios generales de la publicidad activa, la información debe publicarse de manera:",
+    "options": ["Exclusivamente en el Boletín Oficial del Estado", "Solo bajo petición previa del interesado", "Clara, estructurada, entendible y preferiblemente en formatos reutilizables", "Encriptada para garantizar la seguridad nacional"],
+    "correct": 2,
+    "exp": "La información sujeta a transparencia debe ser clara, estructurada, entendible y preferiblemente reutilizable [4]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 6)",
+    "q": "Respecto a la información institucional y organizativa, los sujetos obligados deben publicar:",
+    "options": ["Un organigrama actualizado que identifique a los responsables y su perfil profesional", "El domicilio privado de todos sus empleados", "La afiliación política de sus directivos", "Las notas internas de trabajo de cada departamento"],
+    "correct": 0,
+    "exp": "Deben incluir un organigrama que identifique a los responsables de los órganos, su perfil y trayectoria profesional [5]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 8)",
+    "q": "Señale la respuesta INCORRECTA respecto a la información económica y presupuestaria que debe hacerse pública:",
+    "options": ["Todos los contratos, indicando objeto, duración e importe de licitación", "Las subvenciones y ayudas públicas concedidas", "Las retribuciones percibidas anualmente por los altos cargos", "Los gastos personales de los funcionarios de nivel inferior"],
+    "correct": 3,
+    "exp": "La ley exige publicar retribuciones de altos cargos y responsables, pero no los gastos personales de funcionarios de niveles inferiores [6]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 9)",
+    "q": "¿Qué consideración tiene el incumplimiento reiterado de las obligaciones de publicidad activa?",
+    "options": ["Infracción leve", "Infracción grave", "Infracción muy grave", "No se considera infracción"],
+    "correct": 1,
+    "exp": "El incumplimiento reiterado de las obligaciones de publicidad activa tendrá la consideración de infracción grave [7]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 10)",
+    "q": "¿De qué Ministerio depende el Portal de la Transparencia de la Administración General del Estado?",
+    "options": ["Ministerio de Hacienda", "Ministerio de Política Territorial", "Ministerio de la Presidencia", "Ministerio de Justicia"],
+    "correct": 2,
+    "exp": "El Portal de la Transparencia depende del Ministerio de la Presidencia [8]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 12)",
+    "q": "¿Quiénes son los titulares del derecho de acceso a la información pública?",
+    "options": ["Solo los ciudadanos españoles", "Todas las personas", "Únicamente quienes acrediten un interés legítimo", "Solo los mayores de edad con certificado digital"],
+    "correct": 1,
+    "exp": "Todas las personas tienen derecho a acceder a la información pública en los términos previstos [9]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 13)",
+    "q": "Se entiende por información pública:",
+    "options": ["Solo los documentos impresos en papel", "Contenidos o documentos elaborados o adquiridos en el ejercicio de funciones públicas, en cualquier formato", "Cualquier comunicación privada de los empleados públicos", "Únicamente las leyes publicadas en el BOE"],
+    "correct": 1,
+    "exp": "Es información pública cualquier contenido o documento que obre en poder de los sujetos obligados y haya sido elaborado o adquirido en sus funciones [10]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 14)",
+    "q": "Señale la respuesta INCORRECTA sobre los límites al derecho de acceso. Podrá limitarse si supone un perjuicio para:",
+    "options": ["La seguridad nacional", "La política económica y social", "Los intereses económicos y comerciales", "La protección del medio ambiente"],
+    "correct": 1,
+    "exp": "La ley especifica la política económica y 'monetaria', no la 'social' [11, 12]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 15)",
+    "q": "Si la información solicitada contiene datos que revelan la ideología o religión del afectado:",
+    "options": ["El acceso es libre si es una autoridad pública", "Se requiere el consentimiento expreso y por escrito del afectado", "Basta con una autorización del jefe del departamento", "Se puede acceder si el solicitante es un periodista"],
+    "correct": 1,
+    "exp": "Para datos que revelen ideología, afiliación sindical, religión o creencias, se requiere consentimiento expreso y por escrito [13]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 17)",
+    "q": "¿Está obligado el solicitante a motivar su solicitud de acceso a la información?",
+    "options": ["Sí, siempre es obligatorio", "No, no está obligado a motivarla", "Solo si pide información económica", "Solo si es extranjero"],
+    "correct": 1,
+    "exp": "El solicitante no está obligado a motivar su solicitud de acceso a la información [14]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 18)",
+    "q": "¿Cuál de las siguientes es una causa de inadmisión de la solicitud?",
+    "options": ["Que la información sea muy antigua", "Que la información esté en curso de elaboración o de publicación general", "Que el solicitante no resida en la misma localidad", "Que la solicitud se presente por medios electrónicos"],
+    "correct": 1,
+    "exp": "Es causa de inadmisión que la información esté en curso de elaboración o de publicación general [15]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 19)",
+    "q": "Si la información solicitada pudiera afectar a derechos de terceros, ¿qué plazo tienen estos para alegar?",
+    "options": ["Cinco días", "Diez días", "Quince días", "Un mes"],
+    "correct": 2,
+    "exp": "Se concederá a los terceros afectados un plazo de quince días para realizar alegaciones [16]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 20)",
+    "q": "¿Cuál es el plazo máximo para notificar la resolución de una solicitud de acceso?",
+    "options": ["Diez días", "Quince días hábiles", "Un mes desde la recepción de la solicitud", "Tres meses desde la solicitud"],
+    "correct": 2,
+    "exp": "La resolución debe notificarse en el plazo máximo de un mes desde la recepción [17]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 20)",
+    "q": "¿Qué efecto tiene el silencio administrativo en las solicitudes de acceso a la información?",
+    "options": ["Positivo, se entiende concedida", "Negativo, se entiende desestimada", "Produce la caducidad del procedimiento", "Obliga a una resolución inmediata en 24 horas"],
+    "correct": 1,
+    "exp": "Transcurrido el plazo sin resolución expresa, la solicitud se entenderá desestimada [18]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 22)",
+    "q": "Como regla general, el acceso a la información pública será:",
+    "options": ["Previo pago de una tasa de 10 euros", "Gratuito", "Gratuito solo para desempleados", "De pago si la información tiene más de 5 años"],
+    "correct": 1,
+    "exp": "El acceso a la información será gratuito, aunque la expedición de copias puede generar tasas [19]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 24)",
+    "q": "Frente a una resolución denegatoria de acceso, ¿qué reclamación se puede interponer?",
+    "options": ["Un recurso de alzada obligatorio", "Una reclamación potestativa ante el Consejo de Transparencia y Buen Gobierno", "Una queja ante el Defensor del Pueblo obligatoriamente", "Solo cabe acudir a la vía judicial"],
+    "correct": 1,
+    "exp": "Se puede interponer una reclamación potestativa ante el Consejo de Transparencia previa a la vía judicial [20]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 24)",
+    "q": "¿Cuál es el plazo para interponer la reclamación ante el Consejo de Transparencia?",
+    "options": ["Diez días", "Quince días", "Un mes", "Dos meses"],
+    "correct": 2,
+    "exp": "La reclamación se interpondrá en el plazo de un mes desde la notificación o desde el silencio administrativo [20]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 26)",
+    "q": "Señale cuál de los siguientes NO es un principio general de Buen Gobierno:",
+    "options": ["Actuar con transparencia", "Garantizar la confidencialidad absoluta de todos los gastos", "Respetar el principio de imparcialidad", "Asegurar un trato igual y sin discriminaciones"],
+    "correct": 1,
+    "exp": "Los principios de buen gobierno incluyen actuar con transparencia, no garantizar confidencialidad de gastos [21, 22]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 28)",
+    "q": "Señale cuál de las siguientes se considera una infracción MUY GRAVE en gestión económica:",
+    "options": ["No saludar a los subordinados", "La administración de recursos sin sujeción a las leyes de liquidación", "El retraso de un día en una notificación", "Publicar el organigrama con un error en un apellido"],
+    "correct": 1,
+    "exp": "Administrar recursos de la Hacienda Pública sin sujeción a las disposiciones reguladoras es infracción muy grave [23]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 29)",
+    "q": "Es una infracción disciplinaria MUY GRAVE de los altos cargos:",
+    "options": ["La incorrección con los compañeros", "El descuido en el ejercicio de funciones", "La violación de la imparcialidad influyendo en procesos electorales", "El abuso de autoridad cuando no sea falta grave"],
+    "correct": 2,
+    "exp": "La violación de la imparcialidad para influir en procesos electorales es infracción muy grave [24]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 30)",
+    "q": "Los sancionados por una infracción MUY GRAVE no podrán ser nombrados para cargo de alto cargo en un periodo de:",
+    "options": ["Entre 1 y 3 años", "Entre 5 y 10 años", "De por vida", "6 meses"],
+    "correct": 1,
+    "exp": "No podrán ser nombrados para ocupar ningún puesto de alto cargo durante un periodo de entre 5 y 10 años [25]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 32)",
+    "q": "¿Cuál es el plazo de prescripción de las infracciones MUY GRAVES de Buen Gobierno?",
+    "options": ["Un año", "Tres años", "Cinco años", "Diez años"],
+    "correct": 2,
+    "exp": "Las infracciones muy graves prescriben a los cinco años [26]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 33)",
+    "q": "El Consejo de Transparencia y Buen Gobierno actúa con:",
+    "options": ["Dependencia directa del Presidente del Gobierno", "Autonomía y plena independencia en el cumplimiento de sus fines", "Sometimiento a las instrucciones del Defensor del Pueblo", "Carácter consultivo sin personalidad jurídica propia"],
+    "correct": 1,
+    "exp": "El Consejo actúa con autonomía y plena independencia en el cumplimiento de sus fines [27]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 37)",
+    "q": "¿Por cuánto tiempo es nombrado el Presidente del Consejo de Transparencia y Buen Gobierno?",
+    "options": ["Cuatro años renovables", "Cinco años no renovables", "Seis años renovables una vez", "Tres años"],
+    "correct": 1,
+    "exp": "El Presidente es nombrado por un período no renovable de cinco años [28]."
+  },
+  {
+    "tema": "Ley 19/2013 (Art. 38)",
+    "q": "Es una función del Consejo de Transparencia y Buen Gobierno:",
+    "options": ["Dictar sentencias judiciales sobre transparencia", "Adoptar recomendaciones para el mejor cumplimiento de la Ley", "Cobrar el IBI a los ciudadanos", "Nombrar a los Rectores de las Universidades"],
+    "correct": 1,
+    "exp": "Entre sus funciones está adoptar recomendaciones para el mejor cumplimiento de las obligaciones de la Ley [29]."
+  },
+  {
+    "tema": "Ley 19/2013 (DA 4ª)",
+    "q": "Las Comunidades Autónomas pueden atribuir la competencia para resolver reclamaciones de acceso a la información al:",
+    "options": ["Tribunal Supremo", "Consejo de Transparencia y Buen Gobierno estatal mediante convenio", "Ministerio de Hacienda directamente", "Banco de España"],
+    "correct": 1,
+    "exp": "Las CCAA pueden atribuir esta competencia al Consejo estatal celebrando el correspondiente convenio [30]."
+  },
+  {
+    "tema": "Ley 19/2013 (DF 9ª)",
+    "q": "¿Cuándo entró en vigor el Título I (Transparencia de la actividad pública) de la Ley?",
+    "options": ["Al día siguiente de su publicación", "A los tres meses de su publicación", "Al año de su publicación en el BOE", "A los dos años de su publicación"],
+    "correct": 2,
+    "exp": "El título preliminar, el título I y el título III entraron en vigor al año de su publicación [31]."
+  }
+]

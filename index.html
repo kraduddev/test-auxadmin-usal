@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repaso Legislación USAL 2026</title>
+    <style>
+        :root {
+            --primary: #800000; 
+            --bg: #f4f4f9;
+            --correct: #27ae60;
+            --incorrect: #e74c3c;
+            --text: #2c3e50;
+        }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); display: flex; justify-content: center; padding: 20px; color: var(--text); }
+        #quiz-container { background: white; max-width: 700px; width: 100%; padding: 30px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); }
+        .header { border-bottom: 3px solid var(--primary); margin-bottom: 25px; padding-bottom: 10px; display: flex; justify-content: space-between; align-items: center; }
+        .tema-tag { font-size: 0.75rem; text-transform: uppercase; background: #fff5f5; padding: 4px 10px; border-radius: 4px; color: var(--primary); font-weight: 800; border: 1px solid var(--primary); }
+        .question { font-size: 1.15rem; margin-bottom: 25px; font-weight: 600; line-height: 1.4; }
+        .option { display: block; width: 100%; padding: 14px; margin-bottom: 12px; border: 2px solid #edf2f7; border-radius: 10px; background: white; cursor: pointer; text-align: left; transition: all 0.2s ease; font-size: 1rem; }
+        .option:hover:not(:disabled) { border-color: var(--primary); background: #fffafa; transform: translateX(5px); }
+        .option.correct { background: var(--correct) !important; color: white; border-color: var(--correct); }
+        .option.incorrect { background: var(--incorrect) !important; color: white; border-color: var(--incorrect); }
+        #explanation-box { display: none; margin-top: 25px; padding: 20px; background: #f8fafc; border-left: 6px solid #3498db; border-radius: 6px; font-size: 0.95rem; line-height: 1.6; }
+        .controls { margin-top: 30px; display: flex; justify-content: space-between; align-items: center; }
+        .progress { font-size: 0.9rem; color: #718096; }
+        #next-btn { background: var(--primary); color: white; border: none; padding: 12px 30px; border-radius: 8px; cursor: pointer; font-weight: bold; display: none; transition: opacity 0.2s; }
+        #next-btn:hover { opacity: 0.9; }
+    </style>
+</head>
+<body>
+
+<div id="quiz-container">
+    <div class="header">
+        <span class="tema-tag" id="tema-label">CARGANDO...</span>
+        <span class="progress" id="progress-text"></span>
+    </div>
+    <div id="question-area">
+        <div class="question" id="question-text"></div>
+        <div id="options-container"></div>
+    </div>
+    <div id="explanation-box">
+        <strong style="color:#2980b9">⚖️ Referencia Legal:</strong><br>
+        <span id="explanation-text"></span>
+    </div>
+    <div class="controls">
+        <span></span>
+        <button id="next-btn" onclick="nextQuestion()">Siguiente Pregunta →</button>
+    </div>
+</div>
+
+<script>
+    const questions = [
+        // BLOQUE ESTATUTOS USAL
+        {
+            tema: "Estatutos USAL (Art. 98)",
+            q: "Señale la respuesta INCORRECTA referente al porcentaje de voto ponderado para la elección de Rector:",
+            options: ["Profesores Asociados: 1 por ciento", "Personal de Administración y Servicios: 9 por ciento", "Estudiantes de Máster y Doctorado: 6 por ciento", "Profesores doctores con vinculación permanente: 52 por ciento"],
+            correct: 2,
+            exp: "El porcentaje para estudiantes de Máster y Doctorado es del 5%, no del 6% [Art. 98.2 e)]."
+        },
+        {
+            tema: "Estatutos USAL (Art. 177 Ter)",
+            q: "Respecto a la Unidad de Igualdad, señale la INCORRECTA:",
+            options: ["Nueve miembros elegidos por el Consejo de Gobierno", "Director elegido por sus componentes", "Mandato de 4 años (estudiantes 2)", "Claustro aprobará su Reglamento"],
+            correct: 0,
+            exp: "Los miembros son elegidos por el Claustro, no por el Consejo de Gobierno [Art. 177 Ter 1]."
+        },
+        {
+            tema: "Estatutos USAL (Art. 186)",
+            q: "¿Quién aprueba la programación plurianual en la USAL?",
+            options: ["El Rector", "El Consejo de Gobierno", "El Consejo Social", "La Junta de Castilla y León"],
+            correct: 2,
+            exp: "La realiza el Gerente bajo instrucciones del Rector y la aprueba el Consejo Social, previo informe del Consejo de Gobierno."
+        },
+        {
+            tema: "Estatutos USAL (Art. 78)",
+            q: "Para remover a un Director de Instituto Universitario mediante voto de censura constructivo se requiere:",
+            options: ["Mayoría simple", "Mayoría de dos tercios", "Mayoría absoluta", "Unanimidad"],
+            correct: 2,
+            exp: "El Art. 78.3 exige mayoría absoluta para la aprobación del voto de censura."
+        },
+        {
+            tema: "Estatutos USAL (Art. 59)",
+            q: "¿Con qué frecuencia mínima debe reunirse el Consejo de Departamento en periodo lectivo?",
+            options: ["Una vez al mes", "Una vez al año", "Al menos una vez al trimestre", "Dos veces al semestre"],
+            correct: 2,
+            exp: "Debe reunirse al menos una vez al trimestre [Art. 59.1]."
+        },
+        {
+            tema: "Estatutos USAL (Art. 45)",
+            q: "¿Cómo se constituye válidamente el Claustro de Doctores en segunda convocatoria?",
+            options: ["Un tercio de sus miembros", "Un tercio de los profesores doctores", "Con los doctores presentes", "Con la mitad de los miembros"],
+            correct: 2,
+            exp: "En segunda convocatoria, queda constituido con los doctores presentes [Art. 45.3]."
+        },
+        {
+            tema: "Estatutos USAL (Art. 160)",
+            q: "¿Cuál es el órgano de representación colectiva de los estudiantes de la USAL?",
+            options: ["Consejo de Asociaciones", "Consejo de Delegaciones de Estudiantes", "Asamblea General de Alumnos", "Sindicato de Estudiantes"],
+            correct: 1,
+            exp: "Definido como el Consejo de Delegaciones de Estudiantes [Art. 160.1 a)]."
+        },
+
+        // BLOQUE LEY 39/2015
+        {
+            tema: "Ley 39/2015 (Art. 2)",
+            q: "¿Qué entidad NO se incluye en la lista cerrada del sector público institucional del artículo 2.2?",
+            options: ["Organismos públicos", "Entidades de derecho privado que ejercen potestades", "Universidades públicas", "Corporaciones de Derecho Público"],
+            correct: 3,
+            exp: "Las Corporaciones de Derecho Público se rigen por su normativa específica y no forman parte de la lista cerrada del sector público institucional."
+        },
+        {
+            tema: "Ley 39/2015 (Art. 40)",
+            q: "¿En qué plazo debe cursarse toda notificación desde que el acto sea dictado?",
+            options: ["5 días", "10 días", "15 días", "20 días"],
+            correct: 1,
+            exp: "El artículo 40.2 establece un plazo de diez días hábiles."
+        },
+        {
+            tema: "Ley 39/2015 (Art. 30)",
+            q: "Cuando los plazos se señalan por días hábiles, se excluyen del cómputo:",
+            options: ["Domingos y festivos", "Sábados y domingos", "Sábados, domingos y festivos", "Solo festivos nacionales"],
+            correct: 2,
+            exp: "Los sábados se consideran días inhábiles en el procedimiento administrativo común [Art. 30.2]."
+        },
+        {
+            tema: "Ley 39/2015 (Art. 24)",
+            q: "Regla general en procedimientos iniciados a solicitud del interesado ante el silencio administrativo:",
+            options: ["Estimada (Silencio positivo)", "Desestimada (Silencio negativo)", "Caducidad", "Suspensión"],
+            correct: 0,
+            exp: "La regla general es el silencio positivo, salvo que una norma con rango de ley disponga lo contrario."
+        },
+
+        // BLOQUE LEY 40/2015
+        {
+            tema: "Ley 40/2015 (Art. 23)",
+            q: "Señale el plazo INCORRECTO para la abstención por servicios profesionales:",
+            options: ["Haber prestado servicios en los últimos 2 años", "Haber prestado servicios en los últimos 5 años", "Tener amistad íntima", "Ser perito en el procedimiento"],
+            correct: 1,
+            exp: "El motivo de abstención por servicios profesionales es de los dos últimos años, no cinco [Art. 23.2 e)]."
+        },
+        {
+            tema: "Ley 40/2015 (Art. 17)",
+            q: "Quórum para la válida constitución de un órgano colegiado (sesiones y acuerdos):",
+            options: ["Mayoría absoluta", "La mitad de sus miembros", "Un tercio", "Todos los miembros"],
+            correct: 1,
+            exp: "Se requiere asistencia de Presidente y Secretario y la mitad, al menos, de sus miembros [Art. 17.2]."
+        },
+        {
+            tema: "Ley 40/2015 (Art. 30)",
+            q: "¿Cuándo prescriben las infracciones muy graves si la ley no fija plazos?",
+            options: ["A los 3 años", "A los 2 años", "A los 6 meses", "A los 5 años"],
+            correct: 0,
+            exp: "Las infracciones muy graves prescriben a los tres años por defecto [Art. 30.1]."
+        },
+
+        // BLOQUE TRANSPARENCIA / CÓDIGO ÉTICO
+        {
+            tema: "Ley 19/2013 (Art. 14)",
+            q: "Señale la INCORRECTA. El derecho de acceso se limita por perjuicio a:",
+            options: ["La política económica y social", "La seguridad pública", "Las relaciones exteriores", "Seguridad Nacional"],
+            correct: 0,
+            exp: "La ley habla de política 'económica y monetaria', no 'social' [Art. 14.1.i)]."
+        },
+        {
+            tema: "Código Ético USAL",
+            q: "¿Pueden las denuncias por incumplimiento del Código Ético ser anónimas?",
+            options: ["Siempre deben ser anónimas", "En ningún caso", "Podrán ser anónimas", "Solo si las presenta un funcionario"],
+            correct: 2,
+            exp: "El Código Ético de la USAL permite que las denuncias tengan carácter facultativo en cuanto al anonimato [Art. 13]."
+        }
+    ];
+
+    let currentQ = 0;
+
+    function loadQuestion() {
+        const qData = questions[currentQ];
+        document.getElementById("tema-label").innerText = qData.tema;
+        document.getElementById("progress-text").innerText = `Pregunta ${currentQ + 1} de ${questions.length}`;
+        document.getElementById("question-text").innerText = qData.q;
+        
+        const container = document.getElementById("options-container");
+        container.innerHTML = "";
+        
+        qData.options.forEach((opt, index) => {
+            const btn = document.createElement("button");
+            btn.classList.add("option");
+            btn.innerText = opt;
+            btn.onclick = () => checkAnswer(index);
+            container.appendChild(btn);
+        });
+
+        document.getElementById("explanation-box").style.display = "none";
+        document.getElementById("next-btn").style.display = "none";
+    }
+
+    function checkAnswer(selected) {
+        const qData = questions[currentQ];
+        const buttons = document.querySelectorAll(".option");
+        
+        buttons.forEach((btn, index) => {
+            btn.disabled = true;
+            if (index === qData.correct) {
+                btn.classList.add("correct");
+            } else if (index === selected) {
+                btn.classList.add("incorrect");
+            }
+        });
+
+        document.getElementById("explanation-text").innerText = qData.exp;
+        document.getElementById("explanation-box").style.display = "block";
+        document.getElementById("next-btn").style.display = "block";
+    }
+
+    function nextQuestion() {
+        currentQ++;
+        if (currentQ < questions.length) {
+            loadQuestion();
+        } else {
+            showResults();
+        }
+    }
+
+    function showResults() {
+        document.getElementById("quiz-container").innerHTML = `
+            <div style="text-align:center; padding: 20px;">
+                <h2 style="color:var(--primary)">🎉 ¡Repaso Finalizado!</h2>
+                <p>Has completado las preguntas clave del examen de Auxiliar Administrativo.</p>
+                <button onclick="location.reload()" style="background:var(--primary); color:white; border:none; padding:15px 30px; border-radius:8px; cursor:pointer; font-weight:bold; margin-top:20px;">Volver a empezar</button>
+            </div>
+        `;
+    }
+
+    loadQuestion();
+</script>
+
+</body>
+</html>

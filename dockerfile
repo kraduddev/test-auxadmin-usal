@@ -1,2 +1,7 @@
 FROM nginx:alpine
-COPY . /usr/share/nginx/html
+
+WORKDIR /code
+COPY . /code
+
+RUN rm -rf /usr/share/nginx/html/*
+RUN cp -r /code/* /usr/share/nginx/html/
